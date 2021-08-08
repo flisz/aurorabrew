@@ -1,7 +1,7 @@
-# repositoryname
-additional content to extend [Aurora](https://aurorabuilder.com/), by yourname
+# aurorabrew
+additional content to extend [Aurora](https://aurorabuilder.com/), by flisz
 
-index url: https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index
+index url: https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz.index
 
 ---
 
