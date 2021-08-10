@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Fighting Mongoose Haranshire</name>
+		<update version="0.0.1">
+			<file name="haranshire.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/haranshire.index" />
+		</update>
+	</info>
+	<files>
+		<file name="subrace-draconic-gold-dwarf.xml" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/haranshire/subrace-draconic-gold-dwarf.xml" />
+	</files>
+</index>
