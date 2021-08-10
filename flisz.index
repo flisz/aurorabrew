@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Your Content</name>
+		<name>Aurora Content by FLIS</name>
 		<update version="1.0.0">
 			<file name="flisz.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+		<file name="haranshire.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/haranshire.index" />
 	</files>
 </index>
