@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Aurora Content by FLIS</name>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="flisz.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz.index" />
 		</update>
 	</info>
