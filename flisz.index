@@ -7,6 +7,7 @@
 		</update>
 	</info>
 	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/source.xml" />
 		<file name="haranshire.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/haranshire.index" />
 	</files>
 </index>
