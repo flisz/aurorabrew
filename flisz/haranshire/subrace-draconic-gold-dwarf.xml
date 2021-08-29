@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.0.3">
+		<update version="0.0.4">
 			<file name="subrace-draconic-gold-dwarf.xml" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/haranshire/subrace-draconic-gold-dwarf.xml" />
 		</update>
 	</info>
@@ -23,7 +23,7 @@
 			<grant type="Racial Trait" id="ID_FSIB_RACIAL_TRAIT_DRAGON_TONGUE" />
 		</rules>
 	</element>
-	<element name="Dragon Tongue" type="Racial Trait" source="Fighting Mongoose Haranshire" id="ID_FSIB_RACIAL_TRAIT_DRAGON_TONGUE">
+	<element name="Dragon Tongue" type="Racial Trait" source="Sir Francis's House Draft" id="ID_FSIB_RACIAL_TRAIT_DRAGON_TONGUE">
 		<description>
 			<p> You roll with advantage on arcana checks to sense ambient magic in the area. </p>
 		</description>
