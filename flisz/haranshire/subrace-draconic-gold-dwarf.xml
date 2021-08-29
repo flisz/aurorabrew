@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.0.2">
+		<update version="0.0.3">
 			<file name="subrace-draconic-gold-dwarf.xml" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/haranshire/subrace-draconic-gold-dwarf.xml" />
 		</update>
 	</info>
-	<element name="Draconic Gold Dwarf" type="Sub Race" source="Fighting Mongoose Haranshire" id="ID_FSIB_SUB_RACE_DRACONIC_GOLD_DWARF">
+	<element name="Draconic Gold Dwarf" type="Sub Race" source="Sir Francis's House Drafts" id="ID_FSIB_SUB_RACE_DRACONIC_GOLD_DWARF">
 		<supports>Dwarf</supports>
 		<description>
 			<p>The Draconic Gold Dwarf is from the Smokey Mountains and has an ancestor who is a dragon.</p>

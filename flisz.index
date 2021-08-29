@@ -2,12 +2,13 @@
 <index>
 	<info>
 		<name>Aurora Content by FLIS</name>
-		<update version="1.0.1">
+		<update version="1.0.2">
 			<file name="flisz.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz.index" />
 		</update>
 	</info>
 	<files>
 		<file name="source.xml" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/source.xml" />
 		<file name="haranshire.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/haranshire.index" />
+		<file name="core-mod.index" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/flisz/core-mod.index" />
 	</files>
 </index>

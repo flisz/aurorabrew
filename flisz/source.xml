@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.1">
+		<update version="0.2">
 			<file name="source.xml" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/source.xml" />
 		</update>
 	</info>
-	<element name="Sir Francis Homebrew" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_FLISZ">
+	<element name="Sir Francis's House Drafts" type="Source" source="Homebrew" id="ID_HOMEBREW_SOURCE_FLISZ">
 		<description>
-			<![CDATA[<p></p>]]>
+			<![CDATA[
+				<p><strong>Everything a player needs to create custom characters for the world’s greatest roleplaying game.</strong></p>
+				<p>This is originally sourced from Tasha's Cauldron of Everything</p>
+			]]>
 		</description>
 		<setters>
 			<set name="abbreviation">FLISZ</set>
