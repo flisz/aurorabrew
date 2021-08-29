@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.2">
+		<update version="0.3">
 			<file name="source.xml" url="https://raw.githubusercontent.com/flisz/aurorabrew/master/source.xml" />
 		</update>
 	</info>
-	<element name="Sir Francis's House Drafts" type="Source" source="Homebrew" id="ID_HOMEBREW_SOURCE_FLISZ">
+	<element name="Sir Francis's House Drafts" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_FLISZ">
 		<description>
-			<![CDATA[
-				<p><strong>Everything a player needs to create custom characters for the world’s greatest roleplaying game.</strong></p>
-				<p>This is originally sourced from Tasha's Cauldron of Everything</p>
-			]]>
+			<p><strong>Everything a player needs to use Aurora to play the Campaigns I am playing.</strong></p>
+			<p></p>
+			<p>Some of this material was originally sourced from Wizard's of the Coast or other people.</p> 
+			<p>I will try to properly annotate this source with wherever I get materials, but may miss things from time-to-time.</p> 
+			<p>Thank you to everyone who worked on any of these things, you are all wonderful.</p>
+			<p></p>
+			<p><strong>Contributors/Authors</strong></p>
+			<p>Wizard's of the Coast: Tasha's Cauldron of Everything</p>
+			<p>Wizard's of the Coast: Player's Handbook</p>
+			<p>Homebrews : Issac Brauner</p>
 		</description>
 		<setters>
 			<set name="abbreviation">FLISZ</set>
 			<set name="url"></set>
-			<set name="author" >Francis Sziebert</set>
+			<set name="author" >Aurora XML: Francis Sziebert, see description for contents</set>
+			<set name="official">false</set>
 			<set name="homebrew">true</set>
 		</setters>
 	</element>
